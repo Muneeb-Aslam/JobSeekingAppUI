@@ -2,7 +2,7 @@
 export default {
   content: ["./index.html",
   "./main.js",
-  "./public/src/**/*.html"],
+  "./src/**/*.html"],
   theme: {
     extend: {
       colors:{

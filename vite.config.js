@@ -8,6 +8,10 @@ export default defineConfig({
       input: {
         main: resolve(__dirname, 'index.html'),
         nested: resolve(__dirname, 'src/signin.html'),
+        nested: resolve(__dirname, 'src/signinComp.html'),
+        nested: resolve(__dirname, 'src/signup.html'),
+        nested: resolve(__dirname, 'src/signUpComp.html'),
+        nested: resolve(__dirname, 'src/dashboard.html'),
       },
     },
   },
